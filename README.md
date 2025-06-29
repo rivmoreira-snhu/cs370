@@ -62,7 +62,7 @@ The agent uses Deep Q-Learning with experience replay to learn from these reward
 2. Run all cells in the notebook.
 3. The agent trains over several epochs and evaluates performance every 100 epochs.
 4. Training stops early if the agent consistently wins 90%+ of test games.
-5. The final model is saved as `pirate_model.h5`.
+5. The final model is saved as `treasure_model_final.h5`.
 
 
 
